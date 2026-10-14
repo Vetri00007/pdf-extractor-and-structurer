@@ -1,0 +1,7 @@
+transformers>=4.40.0
+peft>=0.10.0
+accelerate>=0.29.0
+gradio>=4.0.0
+pypdf>=4.0.0
+huggingface_hub>=0.22.0
+torch
